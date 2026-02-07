@@ -1,0 +1,57 @@
+transaction_id:
+  - transaction_id
+  - txn_id
+  - id
+  - trans_id
+  - transactionid
+
+customer_id:
+  - customer_id
+  - cust_id
+  - customer
+  - user_id
+  - client_id
+  - custcode
+
+transaction_date:
+  - transaction_date
+  - date
+  - txn_time
+  - transaction_time
+  - created_at
+
+amount:
+  - amount
+  - transaction_amount
+  - price
+  - value
+  - txn_amount
+  - total
+
+city:
+  - city
+  - location_city
+  - town
+
+state:
+  - state
+  - region
+  - province
+
+merchant_category:
+  - merchant_category
+  - category
+  - merchant_type
+  - mcc
+
+channel:
+  - channel
+  - mode
+  - payment_mode
+  - transaction_mode
+
+is_fraud:
+  - is_fraud
+  - fraud_flag
+  - fraud
+  - is_suspicious

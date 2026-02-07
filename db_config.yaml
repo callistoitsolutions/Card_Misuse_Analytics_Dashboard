@@ -1,0 +1,5 @@
+mysql:
+  host: localhost
+  user: root
+  password: mysql123
+  database: card_misuse_analytics
