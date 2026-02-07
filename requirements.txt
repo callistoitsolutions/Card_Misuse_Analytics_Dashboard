@@ -2,11 +2,12 @@ pandas
 numpy
 sqlalchemy
 pymysql
-streamlit
 matplotlib
 seaborn
 pyyaml
 openpyxl
 jupyter
-altair
+streamlit==1.19.0
+altair==4.2.2
+
 
